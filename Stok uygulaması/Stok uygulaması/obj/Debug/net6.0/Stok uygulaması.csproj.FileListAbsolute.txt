@@ -1,0 +1,28 @@
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.exe
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.deps.json
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.runtimeconfig.json
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.dll
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.pdb
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.AssemblyInfoInputs.cache
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.AssemblyInfo.cs
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.dll
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\refint\Stok uygulaması.dll
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.pdb
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.genruntimeconfig.cache
+C:\Users\enese\OneDrive\Masaüstü\C#\Team Nameless Nova Eey\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\ref\Stok uygulaması.dll
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.exe
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.deps.json
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.runtimeconfig.json
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.dll
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\bin\Debug\net6.0\Stok uygulaması.pdb
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.AssemblyInfoInputs.cache
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.AssemblyInfo.cs
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.dll
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\refint\Stok uygulaması.dll
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.pdb
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\Stok uygulaması.genruntimeconfig.cache
+C:\Users\enese\OneDrive\Masaüstü\Stok uygulaması\Stok uygulaması\obj\Debug\net6.0\ref\Stok uygulaması.dll
